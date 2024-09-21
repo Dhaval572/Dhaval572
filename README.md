@@ -3,5 +3,6 @@
 - 🌱 I’m currently learning advance in c++ and also my favorite programming language is c++
 - 🎨 My hobby is gaming and also i love to drawing
 
-My insta id is: dhavalparmar8540
 - So, i created this repository to give information about me
+
+  My insta id is: dhavalparmar8540
