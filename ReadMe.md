@@ -11,8 +11,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Dhaval572&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dhaval572&theme=dark&hide_border=false)<br/>
-![Most Used Languages by File Count](https://langfilecount-readme-stats.vercel.app/api/top-langs/?username=Dhaval572&layout=compact&theme=dark)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhaval572&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Dhaval572&theme=radical&no-frame=false&no-bg=false&margin-w=4)
