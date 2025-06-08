@@ -1,5 +1,10 @@
 # 💫 About Me:
-👋 Hi, I’m Parmar Dhaval<br><br>👀 I’m interested in game development<br><br>🌱 I’m currently learning advance in c++ and also my favorite programming language is c++<br><br>🎨 My hobby is gaming and also i love to drawing<br><br>So, i created this repository to give information about me
+👋 Hi, I’m Parmar Dhaval<br><br>
+💖 I love C++ more than anything. I enjoy programming in C++, no matter what kind of development it is.<br><br>
+🌱 I’m currently learning advanced C++, and it's also my favorite programming language.<br><br>
+🛠️ I’m interested in creating developer-friendly tools.<br><br>
+🎮 I also love playing games.<br><br>
+I created this repository to give information about me.
 
 
 ## 🌐 Socials:
