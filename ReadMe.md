@@ -4,8 +4,8 @@
 🌱 I’m currently learning advanced C++, and it's also my favorite programming language.<br><br>
 🛠️ I’m interested in creating developer-friendly tools.<br><br>
 🎮 I also love playing games.<br><br>
+🔍 As programmers, we’re not supposed to hate any language—but honestly, I really dislike Java and Python for several reasons, and whenever possible, I avoid using them.<br><br>
 I created this repository to give information about me.
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhaval_parmar718)
