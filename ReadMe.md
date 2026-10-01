@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Parmar Dhaval<br><br>💖 I love C++ more than anything. I enjoy programming in C++, no matter what kind of development it is.<br><br>🌱 I’m currently making real time projects in c++ to build logic in real time programming.<br><br>🛠️ I’m interested in creating developer-friendly tools.<br><br>🔍 As programmers, we’re not supposed to hate any language—but honestly, I really dislike Java and Python for several reasons, and whenever possible, I avoid using them.
+👋 Hi, I’m Parmar Dhaval<br><br>💖 I love C++ more than anything. I enjoy programming in C++, no matter what kind of development it is.<br><br>🌱 I’m currently making real time projects in c++ to build logic in real time programming.<br><br>🛠️ I’m interested in creating developer-friendly tools.<br><br>🔍 As programmers, we’re not supposed to hate any language—but honestly, I really dislike Java and Python for several reasons, And literally hate js and web stuff so much, and whenever possible, I avoid using them.
 
 
 ## 🌐 Socials:
